@@ -1025,5 +1025,24 @@ window.RENOULT_CATALOG = {
     { name: "Rose Gold Mirror", img: "assets/img/Rose Gold Mirror.png" },
     { name: "Gold Mirror", img: "assets/img/Gold Mirror.png" }
   ]
+},
+"ludo-collection-ptmt": {
+  title: "Ludo Collection P.T.M.T",
+  itemsPerPage: 8,
+  items: [
+    { name: "Ludo 2 Way Angle Cock PTMT", img: "assets/img/Ludo 2 Way Angle Cock PTMT.png" },
+    { name: "Ludo 2 Way Bib Cock PTMT", img: "assets/img/Ludo 2 Way Bib Cock PTMT.png" },
+    { name: "Ludo Angle Cock PTMT", img: "assets/img/Ludo Angle Cock PTMT.png" },
+    { name: "Ludo Bib Cock Long PTMT", img: "assets/img/Ludo Bib Cock Long PTMT.png" },
+    { name: "Ludo Bib Cock PTMT", img: "assets/img/Ludo Bib Cock PTMT.png" },
+    { name: "Ludo Central Hole Basin Mixer PTMT", img: "assets/img/Ludo Central Hole Basin Mixer PTMT.png" },
+    { name: "Ludo Nozzle Bib Cock PTMT", img: "assets/img/Ludo Nozzle Bib Cock PTMT.png" },
+    { name: "Ludo Pillar Cock PTMT", img: "assets/img/Ludo Pillar Cock PTMT.png" },
+    { name: "Ludo Sink Cock PTMT", img: "assets/img/Ludo Sink Cock PTMT.png" },
+    { name: "Ludo Sink Mixer PTMT", img: "assets/img/Ludo Sink Mixer PTMT.png" },
+    { name: "Ludo Swan Neck PTMT", img: "assets/img/Ludo Swan Neck PTMT.png" },
+    { name: "Ludo Wall Mixer Non Telephonic PTMT", img: "assets/img/Ludo Wall Mixer Non Telephonic PTMT.png" },
+    { name: "Ludo Wall Mixer with L Bend PTMT", img: "assets/img/Ludo Wall Mixer with L Bend PTMT.png" }
+  ]
 }
 };
