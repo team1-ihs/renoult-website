@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>RENOULT — Product View</title>
+  <script>
+  (function(){
+    try{
+      var saved = localStorage.getItem('renoult-theme');
+      var prefersLight = window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches;
+      if (saved === 'light' || (!saved && prefersLight)) {
+        document.documentElement.classList.add('light');
+      } else {
+        document.documentElement.classList.remove('light');
+      }
+    }catch(e){}
+  })();
+  </script>
+
+  <link rel="stylesheet" href="assets/css/styles.css"/>
+</head>
+<body>
+<header class="header">
+  <div class="container nav">
+    <a class="brand" href="index.html#home" data-nav="#home">
+      <img class="logo-img" data-theme="dark" src="assets/img/logo-dark.png" alt="RENOULT logo dark">
+      <img class="logo-img" data-theme="light" src="assets/img/logo-light.png" alt="RENOULT logo light">
+    </a>
+
+    <nav class="nav-links">
+      <a href="index.html#home" data-nav="#home">Home</a>
+
+      <div class="nav-dropdown">
+        <a href="#" class="dropdown-toggle">Products ▾</a>
+        <div class="dropdown-menu">
+          <a href="product-view.html?type=soap-dispenser">Soap Dispenser & Hand Dryer</a>
+          <a href="product-view.html?type=showers">Showers</a>
+          <a href="product-view.html?type=bath-spouts">Bath Spouts</a>
+          <a href="product-view.html?type=body-jet-angle">Body Jet & Angle Cocks</a>
+          <a href="product-view.html?type=tall-pillar">Tall Pillar Cock C.P</a>
+          <a href="product-view.html?type=divertor">Divertor & Wall Mounted Single Lever</a>
+
+          <a href="product-view.html?type=pearl-gold">Pearl Gold</a>
+          <a href="product-view.html?type=pearl-rose-gold">Pearl Rose Gold</a>
+          <a href="product-view.html?type=fortiz-black">Fortiz Black</a>
+          <a href="product-view.html?type=matrix-black">Matrix Black</a>
+          <a href="product-view.html?type=flora-cp">Flora C.P</a>
+          <a href="product-view.html?type=pearl-cp">Pearl C.P</a>
+          <a href="product-view.html?type=zinnia-cp">Zinnia C.P</a>
+
+          <a href="product-view.html?type=essentials-drainers">Essentials Drainers</a>
+          <a href="product-view.html?type=essentials-lab-cock">Essentials Lab Cock</a>
+          <a href="product-view.html?type=essentials-fixing">Essentials Fixing Accessories & Inlet/Outlet Pipes</a>
+          <a href="product-view.html?type=essential-flanges">Essential Flanges & Faucet</a>
+
+          <a href="product-view.html?type=ludo-ptmt">Ludo Collection P.T.M.T</a>
+          <a href="product-view.html?type=health-faucets">Health Faucets</a>
+          <a href="product-view.html?type=gold-ptmt">Gold Collection P.T.M.T</a>
+          <a href="product-view.html?type=kitchen-taps">Exclusive Kitchen Taps</a>
+
+          <a href="product-view.html?type=ss-grating">Essentials S.S Grating & Drainers</a>
+          <a href="product-view.html?type=tile-drainers">Essentials S.S Grating & Tile Drainers</a>
+
+          <a href="product-view.html?type=elite-ptmt">Elite Collection P.T.M.T</a>
+          <a href="product-view.html?type=dolphin-ptmt">Dolphin Collection P.T.M.T</a>
+          <a href="product-view.html?type=classic-ptmt">Classic Collection P.T.M.T</a>
+
+          <a href="product-view.html?type=cistern">Cistern Fittings</a>
+          <a href="product-view.html?type=bath-accessories">Bath Accessories</a>
+          <a href="product-view.html?type=addons">Add Ons</a>
+        </div>
+      </div>
+
+      <a href="index.html#about" data-nav="#about">About</a>
+      <a href="index.html#contact" data-nav="#contact">Contact</a>
+    </nav>
+
+    <!-- theme toggle intentionally unchanged / commented -->
+  </div>
+</header>
+
+<section class="pv-hero">
+  <div class="container">
+    <div class="pv-breadcrumb"><a class="underline" href="index.html#products" data-nav="#products">Products</a> / <span id="pv-type-label"></span></div>
+    <div class="pv-title">
+      <h1 id="pv-title">Product</h1>
+      <div class="pv-controls">
+        <a id="pv-download" class="btn btn-small btn-accent" href="#" download>Download PDF</a>
+        <label>Items
+          <select id="pv-size" style="margin-left:.4rem">
+            <option value="6">6</option>
+            <option value="8" selected>8</option>
+            <option value="12">12</option>
+            <option value="20">20</option>
+          </select>
+        </label>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="pv-grid">
+  <div class="container">
+    <div id="pv-cards" class="pv-cards"></div>
+    <div id="pv-empty" class="pv-empty" style="display:none">No items found for this product.</div>
+    <div id="pv-pager" class="pv-pager" style="display:none">
+      <button id="pv-prev">Prev</button>
+      <span id="pv-page-indicator"></span>
+      <button id="pv-next">Next</button>
+    </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container" style="display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap;">
+    <small>© 2025 RENOULT. All rights reserved.</small>
+    <!-- <div style="display:flex;gap:.75rem;align-items:center;">
+      <a class="underline" href="https://instagram.com/renault_bath" target="_blank" rel="noopener">Instagram</a>
+      <a class="underline" href="https://facebook.com/renault_bath" target="_blank" rel="noopener">Facebook</a>
+      <a class="underline" data-wa href="#">WhatsApp</a>
+    </div> -->
+  </div>
+</footer>
+<script src="assets/js/main.js"></script>
+</body>
+</html>
+
+<script src="assets/js/catalog.js"></script>
+<script>
+(function(){
+  const params = new URLSearchParams(location.search);
+  const type = (params.get('type') || 'taps').toLowerCase();
+  const data = window.RENOULT_CATALOG[type];
+  const titleEl = document.getElementById('pv-title');
+  const labelEl = document.getElementById('pv-type-label');
+  const downloadBtn = document.getElementById('pv-download');
+  const cardsEl = document.getElementById('pv-cards');
+  const emptyEl = document.getElementById('pv-empty');
+  const pagerEl = document.getElementById('pv-pager');
+  const pageInd = document.getElementById('pv-page-indicator');
+  const prevBtn = document.getElementById('pv-prev');
+  const nextBtn = document.getElementById('pv-next');
+  const sizeSel = document.getElementById('pv-size');
+  if(!data){titleEl.textContent='Unknown';labelEl.textContent='Unknown';emptyEl.style.display='block';downloadBtn.style.display='none';return;}
+  titleEl.textContent=data.title; labelEl.textContent=data.title;
+  if(data.pdf){downloadBtn.href=data.pdf; downloadBtn.setAttribute('download',''); downloadBtn.style.display='inline-flex';} else {downloadBtn.style.display='none';}
+
+  let itemsPerPage = data.itemsPerPage || 8;
+  sizeSel.value = String(itemsPerPage);
+  let page = 1;
+  const items = data.items || [];
+  function render(){
+    const total = items.length;
+    const totalPages = Math.max(1, Math.ceil(total/itemsPerPage));
+    if (page > totalPages) page = totalPages;
+    const start = (page-1)*itemsPerPage;
+    const slice = items.slice(start, start+itemsPerPage);
+    cardsEl.innerHTML = slice.map(it => `
+      <article class="pv-card">
+        <div class="img-wrap"><img src="${it.img}" alt="${it.name}"></div>
+        <div class="pad"><h4>${it.name}</h4><p>${it.desc||""}</p></div>
+      </article>`).join('');
+    emptyEl.style.display = slice.length ? 'none' : 'block';
+    if (total > itemsPerPage){
+      pagerEl.style.display = 'flex';
+      pageInd.textContent = page + ' / ' + totalPages;
+      prevBtn.disabled = page<=1;
+      nextBtn.disabled = page>=totalPages;
+    } else { pagerEl.style.display = 'none'; }
+  }
+  prevBtn.addEventListener('click', ()=>{ page=Math.max(1,page-1); render(); });
+  nextBtn.addEventListener('click', ()=>{ page=page+1; render(); });
+  sizeSel.addEventListener('change', ()=>{ itemsPerPage=parseInt(sizeSel.value,10)||8; page=1; render(); });
+  render();
+})();
+</script>
+<script src="assets/js/main.js"></script>
