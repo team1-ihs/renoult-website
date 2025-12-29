@@ -95,7 +95,19 @@ window.RENOULT_CATALOG = {
     { name: "Tissue Dispenser Big", img: "assets/img/Tissue Dispenser Big.png" },
     { name: "Sleek White", img: "assets/img/Sleek White.png" },
     { name: "Capsule C.P", img: "assets/img/Capsule C.P.png" },
-    { name: "Capsule White", img: "assets/img/Capsule White.png" }
+    { name: "Capsule White", img: "assets/img/Capsule White.png" },
+    { name: "CAPSULE MATALIC", img: "assets/img2/CAPSULE MATALIC.jpg" },
+    { name: "CAPSULE WHITE", img: "assets/img2/CAPSULE WHITE.jpg" },
+    { name: "GOLDEN WHITE", img: "assets/img2/GOLDEN WHITE.jpg" },
+    { name: "HAND DRYER ABS", img: "assets/img2/HAND DRYER ABS.jpg" },
+    { name: "HAND DRYER S.S 304", img: "assets/img2/HAND DRYER S.S 304.jpg" },
+    { name: "SHAVING MIRROR BRASS BLACK", img: "assets/img2/SHAVING MIRROR BRASS BLACK.jpg" },
+    { name: "SHAVING MIRROR BRASS GOLD", img: "assets/img2/SHAVING MIRROR BRASS GOLD.jpg" },
+    { name: "SHAVING MIRROR BRASS R.GOLD", img: "assets/img2/SHAVING MIRROR BRASS R.GOLD.jpg" },
+    { name: "SHAVING MIRROR CP BRASS", img: "assets/img2/SHAVING MIRROR CP BRASS.jpg" },
+    { name: "SHAVING MIRROR S.S", img: "assets/img2/SHAVING MIRROR S.S" },
+    { name: "TISSUE DISPENSER BIG", img: "assets/img2/TISSUE DISPENSER BIG.jpg" },
+    { name: "TISSUE DISPENSER SMALL", img: "assets/img2/TISSUE DISPENSER SMALL.jpg" },
   ]
 },
 "bath-spouts": {
@@ -113,7 +125,19 @@ window.RENOULT_CATALOG = {
     { name: "Plain Flora King", img: "assets/img/Plain Flora King.png" },
     { name: "Tip-Ton Flora King", img: "assets/img/Tip-Ton Flora King.png" },
     { name: "Plain Silver", img: "assets/img/Plain Silver.png" },
-    { name: "Tip-Ton Silver", img: "assets/img/Tip-Ton Silver.png" }
+    { name: "Tip-Ton Silver", img: "assets/img/Tip-Ton Silver.png" },
+    { name: "BATH SPOUT PLAIN ALIVE", img: "assets/img2/BATH SPOUT PLAIN ALIVE.jpg" },
+    { name: "BATH SPOUT PLAIN BELL 2", img: "assets/img2/BATH SPOUT PLAIN BELL 2.jpg" },
+    { name: "BATH SPOUT PLAIN BELL", img: "assets/img2/BATH SPOUT PLAIN BELL.jpg" },
+    { name: "BATH SPOUT PLAIN FLORA", img: "assets/img2/BATH SPOUT PLAIN FLORA.jpg" },
+    { name: "BATH SPOUT PLAIN FUSION 2", img: "assets/img2/BATH SPOUT PLAIN FUSION 2.jpg" },
+    { name: "BATH SPOUT PLAIN FUSION", img: "assets/img2/BATH SPOUT PLAIN FUSION.jpg" },
+    { name: "BATH SPOUT PLAIN SILVER", img: "assets/img2/BATH SPOUT PLAIN SILVER.jpg" },
+    { name: "BATH SPOUT TIP TON ALIVE", img: "assets/img2/BATH SPOUT TIP TON ALIVE.jpg" },
+    { name: "BATH SPOUT TIP TON FLORA", img: "assets/img2/BATH SPOUT TIP TON FLORA.jpg" },
+    { name: "BATH SPOUT TIP TON SILVER", img: "assets/img2/BATH SPOUT TIP TON SILVER.jpg" },
+    { name: "LEGUNA PLAIN SPOUT", img: "assets/img2/LEGUNA PLAIN SPOUT.jpg" },
+    { name: "OVAL PLAIN SPOUT", img: "assets/img2/OVAL PLAIN SPOUT.jpg" }
   ]
 },
 "pearl-cp": {
@@ -148,7 +172,13 @@ window.RENOULT_CATALOG = {
     { name: "Pop-Up Waste Coupling Brass A", img: "assets/img/Pop-Up Waste Coupling Brass A.png" },
     { name: "Pop-Up Waste Coupling Brass B", img: "assets/img/Pop-Up Waste Coupling Brass B.png" },
     { name: "Aqua Guard Tee", img: "assets/img/Aqua Guard Tee.png" },
-    { name: "R.O Valve Set", img: "assets/img/R.O Valve Set.png" }
+    { name: "R.O Valve Set", img: "assets/img/R.O Valve Set.png" },
+    { name: "BRASS CHECK NUT 15MM", img: "assets/img2/BRASS CHECK NUT 15MM.jpg" },
+    { name: "P.T.M.T BOTTLE TRAP", img: "assets/img2/P.T.M.T BOTTLE TRAP.jpg" },
+    { name: "POP UP WASTE COUPLING BRASS CP", img: "assets/img2/POP UP WASTE COUPLING  BRASS CP.jpg" },
+    { name: "POP UP WASTE COUPLING BRASS", img: "assets/img2/POP UP WASTE COUPLING  BRASS.jpg" },
+    { name: "RO TAP FULL BRASS", img: "assets/img2/RO TAP FULL BRASS.jpg" },
+    { name: "TEFLON TAPE", img: "assets/img2/TEFLON TAPE.jpg" }
   ]
 },
 "body-jet-angle": {
@@ -392,7 +422,31 @@ window.RENOULT_CATALOG = {
     { name: "Tile Drainer 6x6", img: "assets/img/Tile Drainer 6x6.png" },
     { name: "Fully Covered Square Glossy & Matt", img: "assets/img/Fully Covered Square Glossy & Matt.png" },
     { name: "Channel Drainer (Side Hole & Center Hole)", img: "assets/img/Channel Drainer (Side Hole & Center Hole).png" },
-    { name: "Tile Drainer (Side Hole & Center Hole)", img: "assets/img/Tile Drainer (Side Hole & Center Hole).png" }
+    { name: "Tile Drainer (Side Hole & Center Hole)", img: "assets/img/Tile Drainer (Side Hole & Center Hole).png" },
+    { name: "CLASSIC ROUND COCKROACH TRAP GLOSY MATT PLAIN HOLE", img: "assets/img2/CLASSIC ROUND LOCKING GLOSY MATT PLAIN HOLE.jpg" },
+    { name: "CLASSIC ROUND LOCKING GLOSY MATT PLAIN HOLE", img: "assets/img2/CLASSIC ROUND LOCKING GLOSY MATT PLAIN HOLE.jpg" },
+    { name: "CLASSIC SQUARE LOCKING GLOSY MATT PLAIN HOLE 1", img: "assets/img2/CLASSIC SQUARE LOCKING GLOSY MATT PLAIN HOLE 1.jpg" },
+    { name: "CLASSIC SQUARE LOCKING GLOSY MATT PLAIN HOLE", img: "assets/img2/CLASSIC SQUARE LOCKING GLOSY MATT PLAIN HOLE.jpg" },
+    { name: "FLOOR POP UP", img: "assets/img2/FLOOR POP UP.jpg" },
+    { name: "FLOWER SQUARE GLOSY MATT", img: "assets/img2/FLOWER SQUARE GLOSY MATT.jpg" },
+    { name: "LINNER SQUARE GLOSY MATT", img: "assets/img2/LINNER SQUARE GLOSY MATT.jpg" },
+    { name: "ROUND BIDDING PLAIN HOLE", img: "assets/img2/ROUND BIDDING PLAIN HOLE.jpg" },
+    { name: "ROUND CICKROACH TRAP PLAIN HOLE", img: "assets/img2/ROUND CICKROACH TRAP PLAIN HOLE.jpg" },
+    { name: "ROUND GRATING SLICE GLOSY MATT", img: "assets/img2/ROUND GRATING SLICE GLOSY MATT.jpg" },
+    { name: "ROUND LOCKING PLAIN HOLE", img: "assets/img2/ROUND LOCKING PLAIN HOLE.jpg" },
+    { name: "ROUND VERTICAL", img: "assets/img2/ROUND VERTICAL.jpg" },
+    { name: "SINK COUPLING PLATINUM WITH PVC CONTAINER", img: "assets/img2/SINK COUPLING PLATINUM WITH PVC CONTAINER.jpg" },
+    { name: "SINK COUPLING PVC", img: "assets/img2/SINK COUPLING PVC.jpg" },
+    { name: "SQUARE COCKROACH TRAP PLAIN HOLE", img: "assets/img2/SQUARE COCKROACH TRAP PLAIN HOLE.jpg" },
+    { name: "SQUARE LOCKING PLAIN HOLE", img: "assets/img2/SQUARE LOCKING PLAIN HOLE.jpg" },
+    { name: "SQUARE SINK WASTE COUPLING MATT", img: "assets/img2/SQUARE SINK WASTE COUPLING MATT.jpg" },
+    { name: "SQUARE VERTICAL", img: "assets/img2/SQUARE VERTICAL.jpg" },
+    { name: "TILE DRAINER 5X5", img: "assets/img2/TILE DRAINER 5X5.jpg" },
+    { name: "TILE DRAINER 6X6", img: "assets/img2/TILE DRAINER 6X6.jpg" },
+    { name: "TILE DRAINER SIDE HOLE & CENTRE HOLE", img: "assets/img2/TILE DRAINER SIDE HOLE & CENTRE HOLE.jpg" },
+    { name: "5X5 SQUARE HINZS", img: "assets/img2/5X5 SQUARE HINZS.jpg" },
+    { name: "BASKET SINK COUPLING MATT", img: "assets/img2/BASKET SINK COUPLING MATT.jpg" },
+    { name: "CHANNEL DRAINER SIDE HOLE & CENTRE HOLE", img: "assets/img2/CHANNEL DRAINER SIDE HOLE & CENTRE HOLE.jpg" }
   ]
 },
 "ss-grating": {
@@ -513,7 +567,13 @@ window.RENOULT_CATALOG = {
     { name: "Jet Spray American (S.S)", img: "assets/img/Jet Spray American (S.S).png" },
     { name: "Jet Spray Multi (S.S)", img: "assets/img/Jet Spray Multi (S.S).png" },
     { name: "Jet Spray Multi (S.S 304)", img: "assets/img/Jet Spray Multi (S.S 304).png" },
-    { name: "Jet Spray Butterfly (S.S)", img: "assets/img/Jet Spray Butterfly (S.S).png" }
+    { name: "Jet Spray Butterfly (S.S)", img: "assets/img/Jet Spray Butterfly (S.S).png" },
+    { name: "CP HOOK ABS CUBIX", img: "assets/img2/CP HOOK ABS CUBIX.jpg" },
+    { name: "CP HOOK ROUND ABS", img: "assets/img2/CP HOOK ROUND ABS.jpg" },
+    { name: "CP SHOWER CHAIN PULLOUT", img: "assets/img2/CP SHOWER CHAIN PULLOUT.jpg" },
+    { name: "JET SPRAY AMERICAN S.S 304", img: "assets/img2/JET SPRAY AMERICAN S.S 304.jpg" },
+    { name: "SHOWER TUBE POLYMIDE BLACK", img: "assets/img2/SHOWER TUBE POLYMIDE BLACK.jpg" },
+    { name: "SHOWER TUBE POLYMIDE GREY", img: "assets/img2/SHOWER TUBE POLYMIDE GREY.jpg" }
   ]
 },
 "rain-showers": {
@@ -626,7 +686,20 @@ window.RENOULT_CATALOG = {
     { name: "C.P Extension Nipple", img: "assets/img/C.P Extension Nipple.png" },
     { name: "C.P Extension Nipple B", img: "assets/img/C.P Extension Nipple B.png" },
     { name: "Rubber Kit", img: "assets/img/Rubber Kit.png" },
-    { name: "Teflon Tape", img: "assets/img/Teflon Tape.png" }
+    { name: "Teflon Tape", img: "assets/img/Teflon Tape.png" },
+    { name: "BRASS BASIN MIXER LEG PAIR 4 INCH LONG", img: "assets/img2/BRASS BASIN MIXER LEG PAIR 4 INCH LONG.jpg" },
+    { name: "C.P CLUTCH BRASS", img: "assets/img2/C.P CLUTCH BRASS.jpg" },
+    { name: "C.P FLANGE S.S 304 ROUND", img: "assets/img2/C.P FLANGE S.S 304 ROUND.jpg" },
+    { name: "C.P FLANGE S.S 304 SQUARE", img: "assets/img2/C.P FLANGE S.S 304 SQUARE.jpg" },
+    { name: "CHAND FITTING FULL SET BIG", img: "assets/img2/CHAND FITTING FULL SET BIG.jpg" },
+    { name: "CHAND FITTING FULL SET SMALL", img: "assets/img2/CHAND FITTING FULL SET SMALL.jpg" },
+    { name: "CP BRASS FLANGE DISPLAY", img: "assets/img2/CP BRASS FLANGE DISPLAY.jpg" },
+    { name: "CP EXTENSION NIPPLE BRASS", img: "assets/img2/CP EXTENSION NIPPLE BRASS.jpg" },
+    { name: "CP FLANGE S.S 304 CONCEALED", img: "assets/img2/CP FLANGE S.S 304 CONCEALED.jpg" },
+    { name: "CP HEXAGON NIPPLE", img: "assets/img2/CP HEXAGON NIPPLE.jpg" },
+    { name: "CP ROUND FLANGE ARK TYPE", img: "assets/img2/CP ROUND FLANGE ARK TYPE.jpg" },
+    { name: "MIXER LEG PAIR JAQUAR TYPE", img: "assets/img2/MIXER LEG PAIR JAQUAR TYPE.jpg" },
+    { name: "MIXER LEG PAIR PARKO TYPE", img: "assets/img2/MIXER LEG PAIR PARKO TYPE.jpg" }
   ]
 },
 "essentials-fixing": {
@@ -648,7 +721,17 @@ window.RENOULT_CATALOG = {
     { name: "Rack Bolt for Wall Mounting & Basin", img: "assets/img/Rack Bolt for Wall Mounting & Basin.png" },
     { name: "Rack Bolt for Wash Basin Regular", img: "assets/img/Rack Bolt for Wash Basin Regular.png" },
     { name: "Rack Bolt for Wash Basin S.S", img: "assets/img/Rack Bolt for Wash Basin S.S.png" },
-    { name: "Rack Bolt for Wash Basin with Cap", img: "assets/img/Rack Bolt for Wash Basin with Cap.png" }
+    { name: "Rack Bolt for Wash Basin with Cap", img: "assets/img/Rack Bolt for Wash Basin with Cap.png" },
+    { name: "FLEXIBLE CONNECTION PIPE S.S WIRED WITH FORZINC NUT & KEY SUPREME", img: "assets/img2/FLEXIBLE CONNECTION PIPE S.S WIRED WITH FORZINC NUT & KEY SUPREME.jpg" },
+    { name: "FLEXIBLE CONNECTION PIPE WITH BRASS NUT & BRAIDED PIPE GOLD", img: "assets/img2/FLEXIBLE CONNECTION PIPE WITH BRASS NUT & BRAIDED PIPE GOLD.jpg" },
+    { name: "FLEXIBLE CONNECTION WIRED WITH S.S NUT SILVER", img: "assets/img2/FLEXIBLE CONNECTION WIRED WITH S.S NUT SILVER.jpg" },
+    { name: "FULL AUTOMATIC", img: "assets/img2/FULL AUTOMATIC.jpg" },
+    { name: "INLET PIPE", img: "assets/img2/INLET PIPE.jpg" },
+    { name: "OUTLET PIPE", img: "assets/img2/OUTLET PIPE.jpg" },
+    { name: "POLYMAIDDE CONNECTION PIPE GREY", img: "assets/img2/POLYMAIDDE CONNECTION PIPE GREY.jpg" },
+    { name: "POLYMAIDE CONNECTION PIPE BLACK", img: "assets/img2/POLYMAIDE CONNECTION PIPE BLACK.jpg" },
+    { name: "PVC CONNECTION PIPE WITH FORZINC NUT & KEY DIAMOND", img: "assets/img2/PVC CONNECTION PIPE WITH FORZINC NUT & KEY DIAMOND.jpg" },
+    { name: "PVC CONNECTION PIPE WITH SANDCASTED NUT & KEY DIAMOND", img: "assets/img2/PVC CONNECTION PIPE WITH SANDCASTED NUT & KEY DIAMOND.jpg" }
   ]
 },
 "thermostatic-diverters": {
@@ -950,7 +1033,19 @@ window.RENOULT_CATALOG = {
     { name: "Tall Piilar Alive", img: "assets/img/Tall Piilar Alive.png" },
     { name: "Tall Piilar Trident", img: "assets/img/Tall Piilar Trident.png" },
     { name: "Tall Piilar Flora", img: "assets/img/Tall Piilar Flora.png" },
-    { name: "Tall Piilar Silver", img: "assets/img/Tall Piilar Silver.png" }
+    { name: "Tall Piilar Silver", img: "assets/img/Tall Piilar Silver.png" },
+    { name: "ALIVE SINGLE LIVER", img: "assets/img2/ALIVE SINGLE LIVER.jpg" },
+    { name: "BELL SINGLE LIVER", img: "assets/img2/BELL SINGLE LIVER.jpg" },
+    { name: "FUSION SINGLE LIVER", img: "assets/img2/FUSION SINGLE LIVER.jpg" },
+    { name: "SQUARE SINGLE LIVER", img: "assets/img2/SQUARE SINGLE LIVER.jpg" },
+    { name: "TALL PILLAR COCK 12 ALIVE", img: "assets/img2/TALL PILLAR COCK 12 ALIVE.jpg" },
+    { name: "TALL PILLAR COCK 12 AURA", img: "assets/img2/TALL PILLAR COCK 12 AURA.jpg" },
+    { name: "TALL PILLAR COCK 12 BELL", img: "assets/img2/TALL PILLAR COCK 12 BELL.jpg" },
+    { name: "TALL PILLAR COCK 12 FLORA", img: "assets/img2/TALL PILLAR COCK 12 FLORA.jpg" },
+    { name: "TALL PILLAR COCK 12 FUSION", img: "assets/img2/TALL PILLAR COCK 12 FUSION.jpg" },
+    { name: "TALL PILLAR COCK 12 HUNK", img: "assets/img2/TALL PILLAR COCK 12 HUNK.jpg" },
+    { name: "TALL PILLAR COCK 12 SILVER", img: "assets/img2/TALL PILLAR COCK 12 SILVER.jpg" },
+    { name: "TALL PILLAR COCK 12 TRIDENT", img: "assets/img2/TALL PILLAR COCK 12 TRIDENT.jpg" }
   ]
 },
 "pearl-rose-gold": {
@@ -1043,6 +1138,498 @@ window.RENOULT_CATALOG = {
     { name: "Ludo Swan Neck PTMT", img: "assets/img/Ludo Swan Neck PTMT.png" },
     { name: "Ludo Wall Mixer Non Telephonic PTMT", img: "assets/img/Ludo Wall Mixer Non Telephonic PTMT.png" },
     { name: "Ludo Wall Mixer with L Bend PTMT", img: "assets/img/Ludo Wall Mixer with L Bend PTMT.png" }
+  ]
+},
+"towel-rack-rod": {
+  title: "Towel Rack & Rod",
+  itemsPerPage: 8,
+  items: [
+    { name: "CRYSTA TOWEL RACK", img: "assets/img2/CRYSTA TOWEL RACK.jpg" },
+    { name: "EDGE TOWEL RACK", img: "assets/img2/EDGE TOWEL RACK.jpg" },
+    { name: "FOLDING TOWEL RACK", img: "assets/img2/FOLDING TOWEL RACK.jpg" },
+    { name: "HILUX TOWEL RACK", img: "assets/img2/HILUX TOWEL RACK.jpg" },
+    { name: "HOOK TOWEL ROD EXTRA HEAVY", img: "assets/img2/HOOK TOWEL ROD EXTRA HEAVY.jpg" },
+    { name: "HOOK TOWEL ROD HEAVY LIGHT", img: "assets/img2/HOOK TOWEL ROD HEAVY LIGHT.jpg" },
+    { name: "HOOK TOWEL ROD HEAVY.jpg", img: "assets/img2/HOOK TOWEL ROD HEAVY.jpg" },
+    { name: "MAESTRO TOWEL ROD", img: "assets/img2/MAESTRO TOWEL ROD.jpg" },
+    { name: "OVAL TOWEL ROD", img: "assets/img2/OVAL TOWEL ROD.jpg" },
+    { name: "PREMIUM TOWEL RACK", img: "assets/img2/PREMIUM TOWEL RACK.jpg" },
+    { name: "PUMA TOWEL RACK", img: "assets/img2/PUMA TOWEL RACK.jpg" },
+    { name: "SKYLA TOWEL RACK", img: "assets/img2/SKYLA TOWEL RACK.jpg" },
+    { name: "SQUARE HOOK TOWEL RACK", img: "assets/img2/SQUARE HOOK TOWEL RACK.jpg" },
+    { name: "SQUARE TOWEL RACK", img: "assets/img2/SQUARE TOWEL RACK.jpg" },
+    { name: "TOWEL RACK", img: "assets/img2/TOWEL RACK.jpg" },
+    { name: "TOWEL ROD 1", img: "assets/img2/TOWEL ROD 1.jpg" },
+    { name: "TOWEL ROD", img: "assets/img2/TOWEL ROD.jpg" }
+  ]
+},
+"trendy": {
+  title: "Trendy",
+  itemsPerPage: 8,
+  items: [
+    { name: "COAT HOOK", img: "assets/img2/COAT HOOK.jpg" },
+    { name: "DOUBLE SOAP DISH", img: "assets/img2/DOUBLE SOAP DISH.jpg" },
+    { name: "LIQUID SOAP DISPENSOR", img: "assets/img2/LIQUID SOAP DISPENSOR.jpg" },
+    { name: "PAPER HOLDER WITH FLAP", img: "assets/img2/PAPER HOLDER WITH FLAP.jpg" },
+    { name: "SOAP DISH WITH TUMBLER HOLDER", img: "assets/img2/SOAP DISH WITH TUMBLER HOLDER.jpg" },
+    { name: "SOAP DISH", img: "assets/img2/SOAP DISH.jpg" },
+    { name: "TRENDY TOWEL RACK", img: "assets/img2/TRENDY TOWEL RACK.jpg" },
+    { name: "TOWEL RING", img: "assets/img2/TOWEL RING.jpg" },
+    { name: "TRENDY TOWEL ROD", img: "assets/img2/TRENDY TOWEL ROD.jpg" },
+    { name: "TUMBLER HOLDER", img: "assets/img2/TUMBLER HOLDER.jpg" }
+  ]
+},
+"urinal-essentials": {
+  title: "Urinal Essentials",
+  itemsPerPage: 8,
+  items: [
+    { name: "AUTO ANGLE COCK SELF CLOSE", img: "assets/img2/AUTO ANGLE COCK SELF CLOSE.jpg" },
+    { name: "PUSH COCK REGULAR", img: "assets/img2/PUSH COCK REGULAR.jpg" },
+    { name: "PUSH COCK URINAL D TYPE", img: "assets/img2/PUSH COCK URINAL D TYPE.jpg" },
+    { name: "PUSH TYPE ANGLE COCK", img: "assets/img2/PUSH TYPE ANGLE COCK.jpg" },
+    { name: "PUSH TYPE BIB COCK", img: "assets/img2/PUSH TYPE BIB COCK.jpg" },
+    { name: "PUSH TYPE PILLAR COCK", img: "assets/img2/PUSH TYPE PILLAR COCK.jpg" },
+    { name: "SELF CLOSING LONG BODY", img: "assets/img2/SELF CLOSING LONG BODY.jpg" },
+    { name: "SELF CLOSING PILLAR COCK", img: "assets/img2/SELF CLOSING PILLAR COCK.jpg" },
+    { name: "URINAL BRACKET PAIR PATTI", img: "assets/img2/URINAL BRACKET PAIR PATTI.jpg" },
+    { name: "URINAL PUSH COCK REGULAR", img: "assets/img2/URINAL PUSH COCK REGULAR.jpg" },
+    { name: "URINAL PUSH COCK SUPREME", img: "assets/img2/URINAL PUSH COCK SUPREME.jpg" },
+    { name: "URINAL SPREADER KING", img: "assets/img2/URINAL SPREADER KING.jpg" },
+    { name: "URINAL SPREADER KOHLER", img: "assets/img2/URINAL SPREADER KOHLER.jpg" },
+    { name: "URINAL SPREADER PARRY", img: "assets/img2/URINAL SPREADER PARRY.jpg" },
+    { name: "URINAL SPREADER SLEEK", img: "assets/img2/URINAL SPREADER SLEEK.jpg" },
+    { name: "URINAL WASTE COUPLING S.S BRASS JALI", img: "assets/img2/URINAL WASTE COUPLING S.S BRASS JALI.jpg" }
+  ]
+},
+"shower-arm": {
+  title: "Shower with Arm",
+  itemsPerPage: 8,
+  items: [
+    { name: "BALENO SINGLE FLOW", img: "assets/img2/BALENO SINGLE FLOW.jpg" },
+{ name: "CONTI SINGLE FLOW", img: "assets/img2/CONTI SINGLE FLOW.jpg" },
+{ name: "CRYSTAL RAIN FLOW WITH 9 INCH SQUARE", img: "assets/img2/CRYSTAL RAIN FLOW WITH 9 INCH SQUARE.jpg" },
+{ name: "CUBE SQUARE WITH 9 INCH SQUARE", img: "assets/img2/CUBE SQUARE  WITH 9 INCH SQUARE.jpg" },
+{ name: "CUBE", img: "assets/img2/CUBE.jpg" },
+{ name: "CUBIX WITH 9 INCH SQUARE", img: "assets/img2/CUBIX WITH 9 INCH SQUARE.jpg" },
+{ name: "CURVE SQUARE WITH 9 INCH SQUARE", img: "assets/img2/CURVE SQAURE WITH 9 INCH SQUARE.jpg" },
+{ name: "CYCUS WITH 9 INCH SQUARE", img: "assets/img2/CYCUS WITH 9 INCH SQUARE.jpg" },
+{ name: "DIAMOND WITH 9 INCH SQUARE", img: "assets/img2/DIAMOND WITH 9 INCH SQUARE.jpg" },
+{ name: "FLORA SINGLE FLOW", img: "assets/img2/FLORA SINGLE FLOW.jpg" },
+{ name: "FORTIZE ROUND WITH 9 INCH FIGHTER", img: "assets/img2/FORTIZE ROUND WITH 9 INCH FIGHTER.jpg" },
+{ name: "FORTIZE ROUND", img: "assets/img2/FORTIZE ROUND.jpg" },
+{ name: "FORTIZE SQUARE WITH 9 INCH SQUARE", img: "assets/img2/FORTIZE SQUARE WITH 9 INCH SQUARE.jpg" },
+{ name: "FORTIZE SQUARE", img: "assets/img2/FORTIZE SQUARE.jpg" },
+{ name: "HINDWARE SINGLE FLOW", img: "assets/img2/HINDWARE SINGLE FLOW.jpg" },
+{ name: "JAQUAR SQUARE SINGLE FLOW", img: "assets/img2/JAQUAR SQUARE SINGLE FLOW.jpg" },
+{ name: "LEXUS SQUARE WITH 9 INCH SQUARE", img: "assets/img2/LEXUS SQUARE  WITH 9 INCH SQUARE.jpg" },
+{ name: "LOTUS SINGLE FLOW", img: "assets/img2/LOTUS SINGLE FLOW.jpg" },
+{ name: "MF 101 MULTI FLOW WITH 9 INCH FIGHTER", img: "assets/img2/MF 101 MULTI FLOW WITH 9 INCH FIGHTER.jpg" },
+{ name: "MF 102 MULTI FLOW WITH 9 INCH FIGHTER", img: "assets/img2/MF 102 MULTI FLOW WITH 9 INCH FIGHTER'.jpg" },
+{ name: "MILANO SQUARE WITH 9 INCH SQUARE", img: "assets/img2/MILANO SQUARE WITH 9 INCH SQAURE.jpg" },
+{ name: "MIST ROUND WITH 9 INCH FIGHTER", img: "assets/img2/MIST ROUND WITH 9 INCH FIGHTER.jpg" },
+{ name: "MIST SQUARE WITH 9 INCH SQUARE", img: "assets/img2/MIST SQAURE WITH 9 INCH SQUARE.jpg" },
+{ name: "PLUTO WITH 9 INCH SQUARE", img: "assets/img2/PLUTO WITH 9 INCH SQUARE.jpg" },
+{ name: "RING ROUND WITH 9 INCH FIGHTER", img: "assets/img2/RING ROUND WITH 9 INCH FIGHTER.jpg" },
+{ name: "ROME WITH 9 INCH SQUARE", img: "assets/img2/ROME WITH 9 INCH SQUARE.jpg" },
+{ name: "SAPHIRE ROUND WITH 9 INCH FIGHTER", img: "assets/img2/SAPHIRE ROUND WITH 9  INCH FIGHTER.jpg" },
+{ name: "SELTOS WITH 9 INCH ROUND ARM", img: "assets/img2/SELTOS WITH 9 INCH ROUND ARM.jpg" },
+{ name: "SIGNATURE SINGLE FLOW WITH 9 INCH SQUARE", img: "assets/img2/SIGNATURE SINGLE FLOW WITH 9 INCH SQUARE.jpg" },
+{ name: "SILVER BELL WITH 9 INCH FIGHTER", img: "assets/img2/SILVER BELL WITH 9 INCH FIGHTER.jpg" },
+{ name: "SOFT ROUND PTMT SHOWER", img: "assets/img2/SOFT ROUND PTMT SHOWER.jpg" },
+{ name: "SOLITAIR SINGLE FLOW WITH 9 INCH SQUARE", img: "assets/img2/SOLITAIR SINGLE FLOW WITH 9 INCH SQUARE.jpg" },
+{ name: "ULTRA SLIM SHOWER WITH ARM", img: "assets/img2/ULTRA SLIM SHOWER WITH ARM.jpg" },
+{ name: "VENUS WITH 9 INCH ROUND ARM", img: "assets/img2/VENUS WITH 9 INCH ROUND ARM.jpg" },
+{ name: "VISTA SINGLE FLOW WITH 9 INCH SQUARE", img: "assets/img2/VISTA SINGLE FLOW WITH 9 INCH SQUARE.jpg" },
+{ name: "4X4 TESLA PTMT SHOWER", img: "assets/img2/4X4 TESLA PTMT SHOWER.jpg" },
+{ name: "4X5 SLIM PTMT SHOWER", img: "assets/img2/4X5 SLIM PTMT SHOWER.jpg" },
+{ name: "5X5 CP WHITE WITH 9 INCH SQUARE", img: "assets/img2/5X5 CP WHITE WITH 9 INCH SQUARE.jpg" },
+{ name: "AQUA SQUARE WITH 9 INCH SQUARE", img: "assets/img2/AQUA SQUARE  WITH 9 INCH SQUARE.jpg" },
+{ name: "FIGHTER ARM S.S ROUND", img: "assets/img2/FIGHTER ARM S.S ROUIND.jpg" },
+{ name: "SHOWER ARM S.S FLAT BRASS BUSH", img: "assets/img2/SHOWER ARM S.S FLAT BRASS BUSH.jpg" },
+{ name: "SHOWER ARM S.S ROUND HEAVY", img: "assets/img2/SHOWER ARM S.S ROUND HEAVY.jpg" },
+{ name: "SHOWER ARM S.S ROUND MEDIUM", img: "assets/img2/SHOWER ARM S.S ROUND MEDIUM.jpg" },
+{ name: "SHOWER ARM S.S SQUARE", img: "assets/img2/SHOWER ARM S.S SQUARE.jpg" },
+{ name: "SHOWER ARM S.S SQUARE WITH FLANGE", img: "assets/img2/SHOWER ARM S.S SQUARE WITH FLANGE.jpg" },
+{ name: "SS ROUND SHOWER ARM CEILING", img: "assets/img2/SS ROUND SHOWER ARM CEILING.jpg" },
+{ name: "SS SQUARE SHOWER ARM CEILING", img: "assets/img2/SS SQUARE SHOWER ARM CEILING.jpg" }
+  ]
+},
+"styleo": {
+  title: "Styleo",
+  itemsPerPage: 8,
+  items: [
+    { name: "STYLEO COAT HOOK", img: "assets/img2/STYLEO COAT HOOK.jpg" },
+    { name: "STYLEO SOAP DISH", img: "assets/img2/STYLEO SOAP DISH.jpg" },
+    { name: "STYLEO TOWEL RACK", img: "assets/img2/STYLEO TOWEL RACK.jpg" },
+    { name: "STYLEO TOWEL RING", img: "assets/img2/STYLEO TOWEL RING.jpg" },
+    { name: "STYLEO TOWEL ROD", img: "assets/img2/STYLEO TOWEL ROD.jpg" },
+    { name: "STYLEO TUMBLER HOLDER", img: "assets/img2/STYLEO TUMBLER HOLDER.jpg" }
+  ]
+},
+"superb-ptmt": {
+  title: "Superb Collection P.T.M.T",
+  itemsPerPage: 8,
+  items: [
+    { name: "SUPERB 2 WAY ANGLE COCK", img: "assets/img2/SUPERB 2 WAY ANGLE COCK.jpg" },
+    { name: "SUPERB 2 WAY BIB COCK", img: "assets/img2/SUPERB 2 WAY BIB COCK.jpg" },
+    { name: "SUPERB ANGLE COCK", img: "assets/img2/SUPERB ANGLE COCK.jpg" },
+    { name: "SUPERB BIB COCK", img: "assets/img2/SUPERB BIB COCK.jpg" },
+    { name: "SUPERB CENTRAL HOLE BASIN MIXER", img: "assets/img2/SUPERB CENTRAL HOLE BASIN MIXER.jpg" },
+    { name: "SUPERB LONG BODY", img: "assets/img2/SUPERB LONG BODY.jpg" },
+    { name: "SUPERB NOZZEL BIB COCK", img: "assets/img2/SUPERB NOZZEL BIB COCK.jpg" },
+    { name: "SUPERB SINGLE LIVER BASIN MIXER", img: "assets/img2/SUPERB SINGLE LIVER BASIN MIXER.jpg" },
+    { name: "SUPERB SINK COCK", img: "assets/img2/SUPERB SINK COCK.jpg" },
+    { name: "SUPERB SINK MIXER", img: "assets/img2/SUPERB SINK MIXER.jpg" },
+    { name: "SUPERB SWAN NECK", img: "assets/img2/SUPERB SWAN NECK.jpg" },
+    { name: "SUPERB WALL MIXER NON TELEPHONIC", img: "assets/img2/SUPERB WALL MIXER NON TELEPHONIC.jpg" },
+    { name: "SUPERB WALL MIXER WITH L BEND", img: "assets/img2/SUPERB WALL MIXER WITH L BEND.jpg" }
+  ]
+},
+"tiago": {
+  title: "Tiago",
+  itemsPerPage: 8,
+  items: [
+    { name: "TIAGO COAT HOOK", img: "assets/img2/TIAGO COAT HOOK.jpg" },
+    { name: "TIAGO DOUBLE SOAP DISH", img: "assets/img2/TIAGO DOUBLE SOAP DISH.jpg" },
+    { name: "TIAGO LIQUID SOAP DISPENSOR", img: "assets/img2/TIAGO LIQUID SOAP DISPENSOR.jpg" },
+    { name: "TIAGO PAPER HOLDER WITH FLAP", img: "assets/img2/TIAGO PAPER HOLDER WITH FLAP.jpg" },
+    { name: "TIAGO SOAP DISH WITH TUMBLER HOLDER", img: "assets/img2/TIAGO SOAP DISH WITH TUMBLER HOLDER.jpg" },
+    { name: "TIAGO SOAP DISH", img: "assets/img2/TIAGO SOAP DISH.jpg" },
+    { name: "TIAGO TOWEL RACK", img: "assets/img2/TIAGO TOWEL RACK.jpg" },
+    { name: "TIAGO TOWEL RING", img: "assets/img2/TIAGO TOWEL RING.jpg" },
+    { name: "TIAGO TOWEL ROD", img: "assets/img2/TIAGO TOWEL ROD.jpg" },
+    { name: "TIAGO TUMBLER HOLDER", img: "assets/img2/TIAGO TUMBLER HOLDER.jpg" }
+  ]
+},
+"khunti": {
+  title: "Khunti",
+  itemsPerPage: 8,
+  items: [
+    { name: "KHUNTI DUSTER", img: "assets/img2/KHUNTI DUSTER.jpg" },
+    { name: "KHUNTI JUPITER", img: "assets/img2/KHUNTI JUPITER.jpg" },
+    { name: "KHUNTI LEAF 1", img: "assets/img2/KHUNTI LEAF 1.jpg" },
+    { name: "KHUNTI LEAF", img: "assets/img2/KHUNTI LEAF.jpg" },
+    { name: "KHUNTI MATIZ", img: "assets/img2/KHUNTI MATIZ.jpg" },
+    { name: "KHUNTI ROXY", img: "assets/img2/KHUNTI ROXY.jpg" },
+    { name: "KHUNTI S TYPE", img: "assets/img2/KHUNTI S TYPE.jpg" },
+    { name: "KHUNTI SETRON 1", img: "assets/img2/KHUNTI SETRON 1.jpg" },
+    { name: "KHUNTI SETRON", img: "assets/img2/KHUNTI SETRON.jpg" },
+    { name: "KHUNTI SOLITRATE", img: "assets/img2/KHUNTI SOLITRATE.jpg" },
+    { name: "KHUNTI ZEBRON", img: "assets/img2/KHUNTI ZEBRON.jpg" },
+    { name: "KHUNTI ALEXA 1", img: "assets/img2/KHUNTI ALEXA 1.jpg" },
+    { name: "KHUNTI ALEXA 2", img: "assets/img2/KHUNTI ALEXA 2.jpg" },
+    { name: "KHUNTI ALEXA", img: "assets/img2/KHUNTI ALEXA.jpg" },
+    { name: "KHUNTI ALFA", img: "assets/img2/KHUNTI ALFA.jpg" },
+    { name: "KHUNTI BULLET 1", img: "assets/img2/KHUNTI BULLET 1.jpg" },
+    { name: "KHUNTI BULLET", img: "assets/img2/KHUNTI BULLET.jpg" },
+    { name: "KHUNTI DUSTER 1", img: "assets/img2/KHUNTI DUSTER 1.jpg" },
+    { name: "KHUNTI DUSTER 2", img: "assets/img2/KHUNTI DUSTER 2.jpg" }
+  ]
+},
+"ludo-collection-w-b-ptmt": {
+  title: "Ludo Collection White & Black P.T.M.T",
+  itemsPerPage: 8,
+  items: [
+    { name: "LUDO 2 WAY ANGLE COCK", img: "assets/img2/LUDO 2 WAY ANGLE COCK.jpg" },
+    { name: "LUDO 2 WAY BIB COCK", img: "assets/img2/LUDO 2 WAY BIB COCK.jpg" },
+    { name: "LUDO ANGLE COCK", img: "assets/img2/LUDO ANGLE COCK.jpg" },
+    { name: "LUDO BIB COCK", img: "assets/img2/LUDO BIB COCK.jpg" },
+    { name: "LUDO CENTRAL HOLE BASIN MIXER", img: "assets/img2/LUDO CENTRAL HOLE BASIN MIXER.jpg" },
+    { name: "LUDO LONG BODY", img: "assets/img2/LUDO LONG BODY.jpg" },
+    { name: "LUDO NOZZEL BIB COCK", img: "assets/img2/LUDO NOZZEL BIB COCK.jpg" },
+    { name: "LUDO PILLAR COCK", img: "assets/img2/LUDO PILLAR COCK.jpg" },
+    { name: "LUDO SINGLE LIVER", img: "assets/img2/LUDO SINGLE LIVER.jpg" },
+    { name: "LUDO WALL MIXER NON TELEPHONIC", img: "assets/img2/LUDO WALL MIXER NON TELEPHONIC.jpg" },
+    { name: "LUDO WALL MIXER TELEPHONIC", img: "assets/img2/LUDO WALL MIXER TELEPHONIC.jpg" },
+    { name: "LUDO WALL MIXER WITH L BLEND", img: "assets/img2/LUDO WALL MIXER WITH L BLEND.jpg" }
+  ]
+},
+"redley": {
+  title: "Redley",
+  itemsPerPage: 8,
+  items: [
+    { name: "REDLEY COAT HOOK", img: "assets/img2/REDLEY COAT HOOK.jpg" },
+    { name: "REDLEY DOUBLE SOAP DISH", img: "assets/img2/REDLEY DOUBLE SOAP DISH.jpg" },
+    { name: "REDLEY LIQUID SOAP DISPENSOR", img: "assets/img2/REDLEY LIQUID SOAP DISPENSOR.jpg" },
+    { name: "REDLEY PAPER HOLDER WITH FLAP", img: "assets/img2/REDLEY PAPER HOLDER WITH FLAP.jpg" },
+    { name: "REDLEY SOAP DISH WITH TUMBLER HOLDER", img: "assets/img2/REDLEY SOAP DISH WITH TUMBLER HOLDER.jpg" },
+    { name: "REDLEY SOAP DISH", img: "assets/img2/REDLEY SOAP DISH.jpg" },
+    { name: "REDLEY TOWEL RACK", img: "assets/img2/REDLEY TOWEL RACK.jpg" },
+    { name: "REDLEY TOWEL RING", img: "assets/img2/REDLEY TOWEL RING.jpg" },
+    { name: "REDLEY TOWEL ROD", img: "assets/img2/REDLEY TOWEL ROD.jpg" },
+    { name: "REDLEY TUMBLER HOLDER", img: "assets/img2/REDLEY TUMBLER HOLDER.jpg" }
+  ]
+},
+"regal-collection-ptmt": {
+  title: "Regal White & Black Collection P.T.M.T",
+  itemsPerPage: 8,
+  items: [
+    { name: "REGAL (W&B) 2 WAY ANGLE COCK", img: "assets/img2/REGAL (W&B) 2 WAY ANGLE COCK.jpg" },
+    { name: "REGAL (W&B) 2 WAY BIB COCK", img: "assets/img2/REGAL (W&B) 2 WAY BIB COCK.jpg" },
+    { name: "REGAL (W&B) ANGLE COCK", img: "assets/img2/REGAL (W&B) ANGLE COCK.jpg" },
+    { name: "REGAL (W&B) BIB COCK LONG BODY", img: "assets/img2/REGAL (W&B) BIB COCK LONG BODY.jpg" },
+    { name: "REGAL (W&B) CENTRAL HOLE BASIN MIXER", img: "assets/img2/REGAL (W&B) CENTRAL HOLE BASIN MIXER.jpg" },
+    { name: "REGAL (W&B) NOZZLE BIB COCK", img: "assets/img2/REGAL (W&B) NOZZLE BIB COCK.jpg" },
+    { name: "REGAL (W&B) PILLAR COCK", img: "assets/img2/REGAL (W&B) PILLAR COCK.jpg" },
+    { name: "REGAL (W&B) SINK COCK", img: "assets/img2/REGAL (W&B) SINK COCK.jpg" },
+    { name: "REGAL (W&B) WALL MIXER NON TELEPHONIC", img: "assets/img2/REGAL (W&B) WALL MIXER NON TELEPHONIC.jpg" },
+    { name: "REGAL (W&B) WALL MIXER TELEPHONIC", img: "assets/img2/REGAL (W&B) WALL MIXER TELEPHONIC.jpg" },
+    { name: "REGAL (W&B) WALL MIXER WITH L BEND", img: "assets/img2/REGAL (W&B) WALL MIXER WITH L BEND.jpg" }
+  ]
+},
+"regal-collection-w-y-ptmt": {
+  title: "Regal White & Yellow Collection P.T.M.T",
+  itemsPerPage: 8,
+  items: [
+    { name: "REGAL (W&Y) 2 WAY ANGLE COCK", img: "assets/img2/REGAL (W&Y) 2 WAY ANGLE COCK.jpg" },
+    { name: "REGAL (W&Y) 2 WAY BIB COCK", img: "assets/img2/REGAL (W&Y) 2 WAY BIB COCK.jpg" },
+    { name: "REGAL (W&Y) ANGLE COCK", img: "assets/img2/REGAL (W&Y) ANGLE COCK.jpg" },
+    { name: "REGAL (W&Y) BIB COCK LONG BODY", img: "assets/img2/REGAL (W&Y) BIB COCK LONG BODY.jpg" },
+    { name: "REGAL (W&Y) CENTRAL HOLE BASIN MIXER", img: "assets/img2/REGAL (W&Y) CENTRAL HOLE BASIN MIXER.jpg" },
+    { name: "REGAL (W&Y) NOZZLE BIB COCK", img: "assets/img2/REGAL (W&Y) NOZZEL BIB COCK.jpg" },
+    { name: "REGAL (W&Y) PILLAR COCK", img: "assets/img2/REGAL (W&Y) PILLAR COCK.jpg" },
+    { name: "REGAL (W&Y) SINK COCK", img: "assets/img2/REGAL (W&Y) SINK COCK.jpg" },
+    { name: "REGAL (W&Y) WALL MIXER NON TELEPHONIC", img: "assets/img2/REGAL (W&Y) WALL MIXER NON TELEPHONIC.jpg" },
+    { name: "REGAL (W&Y) WALL MIXER TELEPHONIC", img: "assets/img2/REGAL (W&Y) WALL MIXER TELEPHONIC.jpg" },
+    { name: "REGAL (W&Y) WALL MIXER WITH L BEND", img: "assets/img2/REGAL (W&Y) WALL MIXER L BEND.jpg" },
+    { name: "REGAL (W&Y) SWAN NECK", img: "assets/img2/REGAL (W&Y) SWAN NECK.jpg" }
+  ]
+},
+"exter": {
+  title: "Exter",
+  itemsPerPage: 8,
+  items: [
+    { name: "EXTER COAT HOOK", img: "assets/img2/EXTER COAT HOOK.jpg" },
+    { name: "EXTER DOUBLE SOAP DISH", img: "assets/img2/EXTER DOUBLE SOAP DISH.jpg" },
+    { name: "EXTER LIQUID SOAP DISPENSOR", img: "assets/img2/EXTER LIQUID SOAP DISPENSOR.jpg" },
+    { name: "EXTER PAPER HOLDER WITH FLAP", img: "assets/img2/EXTER PAPER HOLDER WITH FLAP.jpg" },
+    { name: "EXTER SOAP DISH WITH TUMBLER HOLDER", img: "assets/img2/EXTER SOAP DISH WITH TUMBLER HOLDER.jpg" },
+    { name: "EXTER SOAP DISH", img: "assets/img2/EXTER SOAP DISH.jpg" },
+    { name: "EXTER TOWEL RACK", img: "assets/img2/EXTER TOWEL RACK.jpg" },
+    { name: "EXTER TOWEL RING", img: "assets/img2/EXTER TOWEL RING.jpg" },
+    { name: "EXTER TOWEL ROD", img: "assets/img2/EXTER TOWEL ROD.jpg" },
+    { name: "EXTER TUMBLER HOLDER", img: "assets/img2/EXTER TUMBLER HOLDER.jpg" }
+  ]
+},
+"creta": {
+  title: "Creta",
+  itemsPerPage: 8,
+  items: [
+    { name: "CRETA COAT HOOK", img: "assets/img2/CRETA COAT HOOK.jpg" },
+    { name: "CRETA DOUBLE SOAP DISH", img: "assets/img2/CRETA DOUBLE SOAP DISH.jpg" },
+    { name: "CRETA DOUBLE SOAP DISH 1", img: "assets/img2/CRETA SOAP DISH 1.jpg" },
+    { name: "CRETA LIQUID SOAP DISPENSOR", img: "assets/img2/CRETA LIQUID SOAP DISPENSOR.jpg" },
+    { name: "CRETA PAPER HOLDER WITH FLAP", img: "assets/img2/CRETA PAPER HOLDER WITH FLAP.jpg" },
+    { name: "CRETA SOAP DISH WITH TUMBLER HOLDER", img: "assets/img2/CRETA SOAP DISH WITH TUMBLER HOLDER.jpg" },
+    { name: "CRETA SOAP DISH", img: "assets/img2/CRETA SOAP DISH.jpg" },
+    { name: "CRETA TOWEL RACK", img: "assets/img2/CRETA TOWEL RACK.jpg" },
+    { name: "CRETA TOWEL RING", img: "assets/img2/CRETA TOWEL RING.jpg" },
+    { name: "CRETA TOWEL ROD", img: "assets/img2/CRETA TOWEL ROD.jpg" },
+    { name: "CRETA TUMBLER HOLDER", img: "assets/img2/CRETA TUMBLER HOLDER.jpg" },
+    { name: "CRETA TUMBLER HOLDER 1", img: "assets/img2/CRETA TUMBLER HOLDER 1.jpg" }
+  ]
+},
+"atlantis": {
+  title: "Atlantis",
+  itemsPerPage: 8,
+  items: [
+    { name: "ATLANTIS COAT HOOK", img: "assets/img2/ATLANTIS COAT HOOK.jpg" },
+    { name: "ATLANTIS BATHROOM SHELF", img: "assets/img2/ATLANTIS BATHROOM SHELF.jpg" },
+    { name: "ATLANTIS LIQUID SOAP DISPENSOR", img: "assets/img2/ATLANTIS LIQUID SOAP DISPENSOR.jpg" },
+    { name: "ATLANTIS PAPER HOLDER WITH FLAP", img: "assets/img2/ATLANTIS PAPER HOLDER WITH FLAP.jpg" },
+    { name: "ATLANTIS SOAP DISH", img: "assets/img2/ATLANTIS SOAP DISH.jpg" },
+    { name: "ATLANTIS TOWEL RING", img: "assets/img2/ATLANTIS TOWEL RING.jpg" },
+    { name: "ATLANTIS TUMBLER HOLDER", img: "assets/img2/ATLANTIS TUMBLER HOLDER.jpg" }
+  ]
+},
+"elevate": {
+  title: "Elevate",
+  itemsPerPage: 8,
+  items: [
+    { name: "ELEVATE COAT HOOK", img: "assets/img2/ELEVATE COAT HOOK.jpg" },
+    { name: "ELEVATE DOUBLE SOAP DISH", img: "assets/img2/ELEVATE DOUBLE SOAP DISH.jpg" },
+    { name: "ELEVATE LIQUID SOAP DISPENSOR", img: "assets/img2/ELEVATE LIQUID SOAP DISPENSOR.jpg" },
+    { name: "ELEVATE PAPER HOLDER WITH FLAP", img: "assets/img2/ELEVATE PAPER HOLDER WITH FLAP.jpg" },
+    { name: "ELEVATE SOAP DISH WITH TUMBLER HOLDER", img: "assets/img2/ELEVATE SOAP DISH WITH TUMBLER HOLDER.jpg" },
+    { name: "ELEVATE SOAP DISH", img: "assets/img2/ELEVATE SOAP DISH.jpg" },
+    { name: "ELEVATE TOWEL RACK", img: "assets/img2/ELEVATE TOWEL RACK.jpg" },
+    { name: "ELEVATE TOWEL RING", img: "assets/img2/ELEVATE TOWEL RING.jpg" },
+    { name: "ELEVATE TOWEL ROD", img: "assets/img2/ELEVATE TOWEL ROD.jpg" },
+    { name: "ELEVATE TUMBLER HOLDER", img: "assets/img2/ELEVATE TUMBLER HOLDER.jpg" }
+  ]
+},
+"defender": {
+  title: "Defender",
+  itemsPerPage: 8,
+  items: [
+    { name: "DEFENDER COAT HOOK", img: "assets/img2/DEFENDER COAT HOOK.jpg" },
+    { name: "DEFENDER DOUBLE SOAP DISH", img: "assets/img2/DEFENDER DOUBLE SOAP DISH.jpg" },
+    { name: "DEFENDER LIQUID SOAP DISPENSOR", img: "assets/img2/DEFENDER LIQUID SOAP DISPENSOR.jpg" },
+    { name: "DEFENDER PAPER HOLDER WITH FLAP", img: "assets/img2/DEFENDER PAPER HOLDER WITH FLAP.jpg" },
+    { name: "DEFENDER SOAP DISH WITH TUMBLER HOLDER", img: "assets/img2/DEFENDER SOAP DISH WITH TUMBLER HOLDER.jpg" },
+    { name: "DEFENDER SOAP DISH", img: "assets/img2/DEFENDER SOAP DISH.jpg" },
+    { name: "DEFENDER TOWEL RACK", img: "assets/img2/DEFENDER TOWEL RACK.jpg" },
+    { name: "DEFENDER TOWEL RING", img: "assets/img2/DEFENDER TOWEL RING.jpg" },
+    { name: "DEFENDER TOWEL ROD", img: "assets/img2/DEFENDER TOWEL ROD.jpg" },
+    { name: "DEFENDER TUMBLER HOLDER", img: "assets/img2/DEFENDER TUMBLER HOLDER.jpg" }
+  ]
+},
+"hand-shower": {
+  title: "Hand Shower",
+  itemsPerPage: 8,
+  items: [
+    { name: "KUBIX 1.5 MTR PULL OUT TUBE & HOOK", img: "assets/img2/KUBIX 1.5  MTR PULL OUT TUBE & HOOK.jpg" },
+    { name: "LEXUS 1.5 MTR PULL OUT TUBE & HOOK", img: "assets/img2/LEXUS 1.5  MTR PULL OUT TUBE & HOOK.jpg" },
+    { name: "MF 101 MULTI FLOW 1.5 MTR TUBE & HOOK", img: "assets/img2/MF 101 MULTI FLOW 1.5 MTR TUBE & HOOK.jpg" },
+    { name: "MF 102 MULTI FLOW 1.5 MTR TUBE & HOOK", img: "assets/img2/MF 102 MULTI FLOW 1.5 MTR TUBE & HOOK.jpg" },
+    { name: "MF 103 MULTI FLOW 1.5 MTR TUBE & HOOK", img: "assets/img2/MF 103 MULTI FLOW  1.5 MTR TUBE & HOOK.jpg" },
+    { name: "ORCHID 1.5 MTR TUBE & HOOK", img: "assets/img2/ORCHID 1.5  MTR TUBE & HOOK.jpg" },
+    { name: "PIANO 1.5 MTR PULL OUT TUBE & HOOK", img: "assets/img2/PIANO 1.5 MTR PULL OUT TUBE & HOOK.jpg" },
+    { name: "PRADA 1.5 MTR PULL OUT TUBE & HOOK", img: "assets/img2/PRADA 1.5  MTR PULL OUT TUBE & HOOK.jpg" },
+    { name: "ROLEX MULTI FLOW 1.5 MTR TUBE & HOOK", img: "assets/img2/ROLEX MULTI FLOW 1.5 MTR TUBE & HOOK.jpg" },
+    { name: "ROME ROUND WITH 1.5 MTR PULL OUT TUBE & HOOK 1", img: "assets/img2/ROME ROUND WITH 1.5 MTR PULL OUT TUBE & HOOK 1.jpg" },
+    { name: "ROME ROUND WITH 1.5 MTR PULL OUT TUBE & HOOK CP 2", img: "assets/img2/ROME ROUND WITH 1.5 MTR PULL OUT TUBE & HOOK CP 2.jpg" },
+    { name: "ROME ROUND WITH 1.5 MTR PULL OUT TUBE & HOOK CP", img: "assets/img2/ROME ROUND WITH 1.5 MTR PULL OUT TUBE & HOOK CP.jpg" },
+    { name: "ROME ROUND WITH 1.5 MTR PULL OUT TUBE & HOOK", img: "assets/img2/ROME ROUND WITH 1.5 MTR PULL OUT TUBE & HOOK.jpg" },
+    { name: "ROME SQUARE WITH 1.5 MTR PULL OUT TUBE & HOOK 1", img: "assets/img2/ROME SQUARE WITH 1.5 MTR PULL OUT TUBE & HOOK 1.jpg" },
+    { name: "ROME SQUARE WITH 1.5 MTR PULL OUT TUBE & HOOK 2", img: "assets/img2/ROME SQUARE WITH 1.5 MTR PULL OUT TUBE & HOOK 2.jpg" },
+    { name: "ROME SQUARE WITH 1.5 MTR PULL OUT TUBE & HOOK CP", img: "assets/img2/ROME SQUARE WITH 1.5 MTR PULL OUT TUBE & HOOK CP.jpg" },
+    { name: "ROME SQUARE WITH 1.5 MTR PULL OUT TUBE & HOOK", img: "assets/img2/ROME SQUARE WITH 1.5 MTR PULL OUT TUBE & HOOK.jpg" },
+    { name: "SOLITAIR SINGLE FLOW 1.5 MTR PULL OUT TUBE & HOOK", img: "assets/img2/SOLITAIR SINGLE FLOW  1.5  MTR PULL OUT TUBE & HOOK.jpg" },
+    { name: "SOLITAIR SINGLE FLOW 1.5 MTR TUBE & HOOK", img: "assets/img2/SOLITAIR SINGLE FLOW 1.5  MTR TUBE & HOOK.jpg" },
+    { name: "SPARK SINGLE FLOW 1.5 MTR TUBE & HOOK", img: "assets/img2/SPARK SINGLE FLOW  1.5  MTR TUBE & HOOK.jpg" },
+    { name: "ZURICH MULTI FLOW 1.5 MTR TUBE & HOOK", img: "assets/img2/ZURICH MULTI FLOW 1.5  MTR TUBE & HOOK.jpg" },
+    { name: "CRYSTAL SINGLE FLOW 1.5 MTR TUBE & HOOK", img: "assets/img2/CRYSTAL SINGLE FLOW 1.5  MTR TUBE & HOOK.jpg" },
+    { name: "DOLPHIN SINGLE FLOW 1.5 MTR TUBE & HOOK", img: "assets/img2/DOLPHIN SINGLE FLOW 1.5  MTR TUBE & HOOK.jpg" },
+    { name: "FORTIZE ROUND 1.5 MTR TUBE & HOOK", img: "assets/img2/FORTIZE ROUND 1.5  MTR TUBE & HOOK.jpg" },
+    { name: "FORTIZE SQUARE 1.5 MTR TUBE & HOOK", img: "assets/img2/FORTIZE SQUARE 1.5  MTR TUBE & HOOK.jpg" },
+    { name: "HARMONY 1.5 MTR TUBE & HOOK", img: "assets/img2/HARMONY 1.5  MTR TUBE & HOOK.jpg" },
+    { name: "HINDWARE MULTI FLOW 1.5 MTR TUBE & HOOK", img: "assets/img2/HINDWARE MULTI FLOW 1.5  MTR TUBE & HOOK.jpg" }
+  ]
+},
+"grab-bars": {
+  title: "Grab Bars",
+  itemsPerPage: 8,
+  items: [
+    { name: "GRAB RAIL 9 INCH", img: "assets/img2/GRAB RAIL 9 INCH.jpg" },
+    { name: "GRAB RAIL 12 INCH", img: "assets/img2/GRAB RAIL 12 INCH.jpg" },
+    { name: "GRAB RAIL 15 INCH", img: "assets/img2/GRAB RAIL 15 INCH.jpg" },
+    { name: "GRAB RAIL 18 INCH", img: "assets/img2/GRAB RAIL 18 INCH.jpg" },
+    { name: "SWING UP GRAB RAIL 30 INCH MATTE FINISH", img: "assets/img2/SWING UP GRAB RAIL 30 INCH MATTE FINISH.jpg" }
+  ]
+},
+"internal-fitting": {
+  title: "Internal Fittings",
+  itemsPerPage: 8,
+  items: [
+    { name: "Internal Fitting 1", img: "assets/img2/Internal Fitting 1.jpg" },
+    { name: "Internal Fitting 2", img: "assets/img2/Internal Fitting 2.jpg" },
+    { name: "Internal Fitting 3", img: "assets/img2/Internal Fitting 3.jpg" },
+    { name: "Internal Fitting 4", img: "assets/img2/Internal Fitting 4.jpg" },
+    { name: "Internal Fitting 5", img: "assets/img2/Internal Fitting 5.jpg" },
+    { name: "C.S.C 2.3. 4INCH", img: "assets/img2/C.S.C 2.3. 4INCH.jpg" },
+    { name: "C.S.C 2.5 INCH", img: "assets/img2/C.S.C 2.5 INCH.jpg" },
+    { name: "C.S.C 3 INCH", img: "assets/img2/C.S.C 3 INCH.jpg" },
+    { name: "CONCEALED DISC 15MM", img: "assets/img2/CONCEALED DISC 15MM.jpg" },
+    { name: "CONCEALED DISC 20MM", img: "assets/img2/CONCEALED DISC 20MM.jpg" },
+    { name: "DISC 20 MM", img: "assets/img2/DISC 20 MM.jpg" },
+    { name: "DISC HEAVY 15MM", img: "assets/img2/DISC HEAVY 15MM.jpg" },
+    { name: "DISC MEDIUM 15MM", img: "assets/img2/DISC MEDIUM 15MM.jpg" },
+    { name: "JAQUAR FLORENTINE", img: "assets/img2/JAQUAR FLORENTINE.jpg" },
+    { name: "JAQUAR QUEEN", img: "assets/img2/JAQUAR QUEEN.jpg" },
+    { name: "NEW CONTI", img: "assets/img2/NEW CONTI.jpg" },
+    { name: "PERRU", img: "assets/img2/PERRU.jpg" },
+    { name: "RISING HEAVY", img: "assets/img2/RISING HEAVY.jpg" },
+    { name: "RISING", img: "assets/img2/RISING.jpg" }
+  ]
+},
+"health-faucets-abs": {
+  title: "Health Faucets ABS",
+  itemsPerPage: 8,
+  items: [
+    { name: "AQUA DUAL FLOW ABS WITH TUBE & HOOK", img: "assets/img2/AQUA DUAL FLOW ABS WITH TUBE & HOOK.jpg" },
+    { name: "CONTI ABS WITH TUBE & HOOK 1", img: "assets/img2/CONTI ABS WITH TUBE & HOOK 1.jpg" },
+    { name: "CONTI ABS WITH TUBE & HOOK", img: "assets/img2/CONTI ABS WITH TUBE & HOOK.jpg" },
+    { name: "FORTIZ BLACK ABS", img: "assets/img2/FORTIZ BLACK ABS.jpg" },
+    { name: "FORTIZ GOLD ABS", img: "assets/img2/FORTIZ GOLD ABS.jpg" },
+    { name: "FORTIZ ROSE GOLD ABS", img: "assets/img2/FORTIZ ROSE GOLD ABS.jpg" },
+    { name: "FORTIZE ABS WITH TUBE & HOOK", img: "assets/img2/FORTIZE ABS WITH TUBE & HOOK.jpg" },
+    { name: "JAQUAR ABS WITH TUBE & HOOK HEAVY", img: "assets/img2/JAQUAR ABS WITH TUBE & HOOK HEAVY.jpg" },
+    { name: "JAQUAR ABS WITH TUBE & HOOK", img: "assets/img2/JAQUAR ABS WITH TUBE & HOOK.jpg" },
+    { name: "KOHLER ABS", img: "assets/img2/KOHLER ABS.jpg" },
+    { name: "LEXUS SQUARE ABS WITH TUBE & HOOK", img: "assets/img2/LEXUS SQUARE ABS WITH TUBE & HOOK.jpg" },
+    { name: "MICRA ABS", img: "assets/img2/MICRA ABS.jpg" },
+    { name: "ORCHID ABS WITH TUBE & HOOK", img: "assets/img2/ORCHID ABS WITH TUBE & HOOK.jpg" },
+    { name: "PARRY ABS WITH TUBE & HOOK", img: "assets/img2/PARRY ABS WITH TUBE & HOOK.jpg" },
+    { name: "PRADA ABS WITH TUBE & HOOK", img: "assets/img2/PRADA ABS WITH TUBE & HOOK.jpg" },
+    { name: "ROLEX ABS WITH TUBE & HOOK", img: "assets/img2/ROLEX ABS WITH TUBE & HOOK.jpg" },
+    { name: "ROME ABS WITH TUBE & HOOK", img: "assets/img2/ROME ABS WITH TUBE & HOOK.jpg" },
+    { name: "SLIDING ABS WITH TUBE & HOOK", img: "assets/img2/SLIDING ABS WITH TUBE & HOOK.jpg" },
+    { name: "SOFT ABS WITH TUBE & HOOK", img: "assets/img2/SOFT ABS WITH TUBE & HOOK.jpg" }
+  ]
+},
+"health-faucets-brass": {
+  title: "Health Faucets Brass",
+  itemsPerPage: 8,
+  items: [
+    { name: "D SQUARE WITH TUBE & HOOK", img: "assets/img2/D SQUARE WITH TUBE & HOOK.jpg" },
+    { name: "DISNEY WITH TUBE & HOOK", img: "assets/img2/DISNEY WITH TUBE & HOOK.jpg" },
+    { name: "DOLPHIN BRASS", img: "assets/img2/DOLPHIN BRASS.jpg" },
+    { name: "DOVE WITH TUBE & HOOK", img: "assets/img2/DOVE WITH TUBE & HOOK.jpg" },
+    { name: "FLORA BRASS", img: "assets/img2/FLORA BRASS.jpg" },
+    { name: "HAMMER WITH & HOOK", img: "assets/img2/HAMMER WITH & HOOK.jpg" },
+    { name: "MARVEL WITH TUBE & HOOK", img: "assets/img2/MARVEL WITH TUBE & HOOK.jpg" },
+    { name: "PLATINUM BLACK BRASS", img: "assets/img2/PLATINUM BLACK BRASS.jpg" },
+    { name: "PLATINUM CP BRASS", img: "assets/img2/PLATINUM CP BRASS.jpg" },
+    { name: "ROLEX WITH TUBE & HOOK", img: "assets/img2/ROLEX WITH TUBE & HOOK.jpg" },
+    { name: "ROUND WITH TUBE & HOOK", img: "assets/img2/ROUND WITH TUBE & HOOK.jpg" },
+    { name: "ROVER WITH TUBE & HOOK", img: "assets/img2/ROVER WITH TUBE & HOOK.jpg" },
+    { name: "SEGA WITH TUBE & HOOK", img: "assets/img2/SEGA WITH TUBE & HOOK.jpg" },
+    { name: "SLEEK BRASS 1", img: "assets/img2/SLEEK BRASS 1.jpg" },
+    { name: "SLEEK BRASS", img: "assets/img2/SLEEK BRASS.jpg" },
+    { name: "SQUARE WITH TUBE & HOOK", img: "assets/img2/SQUARE WITH TUBE & HOOK.jpg" },
+    { name: "SUPREMO BRASS", img: "assets/img2/SUPREMO BRASS.jpg" }
+  ]
+},
+"health-faucets-ptmt": {
+  title: "Health Faucets P.T.M.T",
+  itemsPerPage: 8,
+  items: [
+    { name: "NEXON WHITE & BLACK", img: "assets/img2/NEXON WHITE & BLACK.jpg" },
+    { name: "NEXON WHITE & GREY", img: "assets/img2/NEXON WHITE & GREY.jpg" },
+    { name: "NEXON WHITE & YELLOW", img: "assets/img2/NEXON WHITE & YELLOW.jpg" },
+    { name: "POLO WITH TUBE & HOOK", img: "assets/img2/POLO WITH TUBE & HOOK.jpg" },
+    { name: "SELTOS WHITE & BLUE", img: "assets/img2/SELTOS WHITE & BLUE.jpg" },
+    { name: "SELTOS WHITE & BLACK", img: "assets/img2/SELTOS WHITE & BLACK.jpg" },
+    { name: "SELTOS WHITE & GREY", img: "assets/img2/SELTOS WHITE & GREY.jpg" },
+    { name: "SELTOS WHITE & YELLOW", img: "assets/img2/SELTOS WHITE & YELLOW.jpg" },
+    { name: "SOFT WITH TUBE & HOOK", img: "assets/img2/SOFT WITH TUBE & HOOK.jpg" },
+    { name: "VENUS BLACK", img: "assets/img2/VENUS BLACK.jpg" },
+    { name: "VENUS WHITE & BLACK", img: "assets/img2/VENUS WHITE & BLACK.jpg" },
+    { name: "VENUS WHITE & BLUE", img: "assets/img2/VENUS WHITE & BLUE.jpg" },
+    { name: "VENUS WHITE & YELLOW", img: "assets/img2/VENUS WHITE & YELLOW.jpg" },
+    { name: "VINTAGE WITH TUBE & HOOK", img: "assets/img2/VINTAGE WITH TUBE & HOOK.jpg" }
+  ]
+},
+"essentials": {
+  title: "Essentials",
+  itemsPerPage: 8,
+  items: [
+    { name: "2IN1 ANGLE COCK SHIFT", img: "assets/img2/2IN1 ANGLE COCK SHIFT.jpg" },
+    { name: "2IN1 ANGLE COCK WITH HOLDER FLORA", img: "assets/img2/2IN1 ANGLE COCK WITH HOLDER FLORA.jpg" },
+    { name: "2IN1 ANGLE VALVE TIK-TIK", img: "assets/img2/2IN1 ANGLE VALVE TIK-TIK.jpg" },
+    { name: "2IN1 ANGLE VALVE WITH HOOK", img: "assets/img2/2IN1 ANGLE VALVE WITH HOOK.jpg" },
+    { name: "2IN1 BIB COCK TIK TIK", img: "assets/img2/2IN1 BIB COCK TIK TIK.jpg" },
+    { name: "3IN1 ANGLE VALVE", img: "assets/img2/3IN1 ANGLE VALVE.jpg" },
+    { name: "3IN1 COVERSION TEE", img: "assets/img2/3IN1 COVERSION TEE.jpg" },
+    { name: "ANGLE VALVE 2IN1 TURBO", img: "assets/img2/ANGLE VALVE 2IN1 TURBO.jpg" },
+    { name: "ANGLE VALVE WITH HOOK ROUND", img: "assets/img2/ANGLE VALVE WITH HOOK ROUND.jpg" },
+    { name: "ANGLE VALVE WITH HOOK", img: "assets/img2/ANGLE VALVE WITH HOOK.jpg" },
+    { name: "DIVERTOR TEE", img: "assets/img2/DIVERTOR TEE.jpg" },
+    { name: "HOLDER FLORA", img: "assets/img2/HOLDER FLORA.jpg" },
+    { name: "SINGLE LIVER 2IN1 ANGLE VALVE FLORA", img: "assets/img2/SINGLE LIVER 2IN1 ANGLE VALVE FLORA.jpg" },
+    { name: "SINGLE LIVER 2IN1 BIB COCK FLORA", img: "assets/img2/SINGLE LIVER 2IN1 BIB COCK FLORA.jpg" },
+    { name: "TEE COCK 2IN1", img: "assets/img2/TEE COCK 2IN1.jpg" }
   ]
 }
 };
