@@ -455,16 +455,34 @@ button{font:inherit;cursor:pointer}
     border-bottom: 1px solid rgba(255,255,255,0.08);
   }
 }
-
-/* ===== FIX MOBILE HEADER ALIGNMENT ===== */
-/* ===== FIX MOBILE NAV MISALIGNMENT (ACTIVE UNDERLINE) ===== */
+/* ===== FIX NAV GRID ALIGNMENT ON MOBILE ===== */
 @media (max-width: 768px) {
 
-  /* Disable underline effect on mobile */
-  .nav-links a::after {
-    display: none;
+  .nav-dropdown {
+    padding-bottom: 0; /* ❌ remove extra height on mobile */
+  }
+
+  .nav-dropdown::after {
+    display: none;     /* ❌ remove hover buffer on mobile */
   }
 }
+
+/* ===== FINAL GRID NAV ALIGNMENT FIX ===== */
+@media (max-width: 768px) {
+
+  .nav {
+    align-items: stretch; /* let cells fill height */
+  }
+
+  .nav-links {
+    display: flex;
+    align-items: center;
+    height: 100%;
+  }
+}
+
+
+
 
 
 
