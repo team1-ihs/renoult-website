@@ -465,16 +465,25 @@ button{font:inherit;cursor:pointer}
   }
 
   .nav-links {
-    flex-wrap: nowrap;       /* ❗ prevent Home from going up */
+    flex-wrap: nowrap;
     align-items: center;
     gap: 0.8rem;
   }
 
+  /* ✅ FINAL iOS-SAFE FIX */
   .nav-links a,
   .dropdown-toggle {
-    white-space: nowrap;     /* ❗ keep text on one line */
+    white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
+
+    line-height: normal;        /* 🔑 reset font metrics */
+    vertical-align: middle;     /* 🔑 force same baseline */
+    transform: translateY(1px); /* 🔑 micro iOS correction */
   }
 }
+
+
 
 
 
