@@ -415,6 +415,11 @@ button{font:inherit;cursor:pointer}
 /* ===== MOBILE DROPDOWN FIX ===== */
 @media (max-width: 768px) {
 
+  .nav-links {
+    flex-wrap: nowrap;
+    gap: 0.3rem;
+  }
+
   /* Make dropdown full-width panel */
   .dropdown-menu {
     position: fixed;
@@ -472,6 +477,7 @@ button{font:inherit;cursor:pointer}
     display: flex;
     align-items: center;
     height: 44px;
+    padding: 0 8px;
   }
 
   .nav-links > .nav-dropdown > a,
