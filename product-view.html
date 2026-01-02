@@ -33,7 +33,7 @@
     <nav class="nav-links nav-center">
       <a href="index.html#home">Home</a>
       <div class="nav-dropdown">
-        <a href="#" class="dropdown-toggle">Products</a>
+        <button type="button" class="dropdown-toggle">Products</button>
         <div class="dropdown-menu mega">
           <!-- Bathroom Taps -->
   <div class="dropdown-group">
@@ -120,9 +120,10 @@
       <a href="index.html#about">About</a>
       <a href="index.html#contact">Contact</a>
     </nav>
-    <div class="nav-actions"></div>
-
+    <div class="nav-actions">
+      <button class="icon-btn" data-theme-toggle aria-label="Toggle theme">☾</button>
     </div>
+
 </header>
 
 <section class="pv-hero">
@@ -221,3 +222,18 @@
 })();
 </script>
 <script src="assets/js/main.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const toggle = document.querySelector(".dropdown-toggle");
+  const menu = document.querySelector(".dropdown-menu");
+
+  toggle.addEventListener("click", (e) => {
+    e.stopPropagation();
+    menu.classList.toggle("open");
+  });
+
+  document.addEventListener("click", () => {
+    menu.classList.remove("open");
+  });
+});
+</script>
