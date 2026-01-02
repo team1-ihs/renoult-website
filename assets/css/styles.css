@@ -409,3 +409,34 @@ button{font:inherit;cursor:pointer}
   justify-self: center;
 }
 
+@media (max-width: 768px) {
+
+  /* Keep navbar in one line */
+  .nav {
+    flex-wrap: nowrap;
+  }
+
+  .nav-links {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .nav-links::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Fix dropdown cutoff */
+  .dropdown-menu {
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 64px; /* below header */
+    width: 92vw;
+    max-width: 420px;
+    max-height: 70vh;
+    overflow-y: auto;
+    border-radius: 16px;
+  }
+}
+
