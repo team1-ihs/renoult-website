@@ -293,14 +293,14 @@ button{font:inherit;cursor:pointer}
 
   left: 50%;
   transform: translateX(-50%) translateY(10px);
-  width: min(1320px, calc(100vw - 64px));
+  width: min(1000px, calc(100vw - 64px));
   max-width: calc(100vw - 48px);
 
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  gap: 36px;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 24px;
 
-  padding: 28px 36px;
+  padding: 24px 28px;
   background: linear-gradient(180deg, #111 0%, #0b0b0c 100%);
   border-radius: 16px;
   box-shadow: 0 30px 60px rgba(0,0,0,.55);
