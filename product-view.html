@@ -96,6 +96,7 @@
     <h4>Essentials</h4>
     <a href="product-view.html?type=essentials">All Essentials</a>
     <a href="product-view.html?type=drainers">Drainers</a>
+    <a href="product-view.html?type=cistern">Cistern Fittings</a>
     <a href="product-view.html?type=essential-flanges">Flanges & Fittings</a>
     <a href="product-view.html?type=internal-fitting">Internal Fittings</a>
     <a href="product-view.html?type=urinal-essentials">Urinal Essentials</a>
@@ -127,9 +128,9 @@
         <label>Items
           <select id="pv-size" style="margin-left:.4rem">
             <option value="6">6</option>
-            <option value="8" selected>8</option>
+            <option value="8">8</option>
             <option value="12">12</option>
-            <option value="20">20</option>
+            <option value="20" selected>20</option>
           </select>
         </label>
       </div>
@@ -183,7 +184,8 @@
   titleEl.textContent=data.title; labelEl.textContent=data.title;
   if(data.pdf){downloadBtn.href=data.pdf; downloadBtn.setAttribute('download',''); downloadBtn.style.display='inline-flex';} else {downloadBtn.style.display='none';}
 
-  let itemsPerPage = data.itemsPerPage || 8;
+  // Force 20 items per page by default (overrides data.itemsPerPage)
+  let itemsPerPage = 20;
   sizeSel.value = String(itemsPerPage);
   let page = 1;
   const items = data.items || [];
